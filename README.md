@@ -1,7 +1,7 @@
 # India AQI Analysis  
 
 ##  Overview  
-This project was carried out at the **Defence Research and Development Organisation (DRDO)** to analyze the **Air Quality Index (AQI)** across India. The study focused on identifying spatial and temporal pollution patterns, assessing pollutant contributions, and applying statistical and machine learning techniques for AQI prediction.  
+This project was carried out at the **Defence Research and Development Establishment, DRDO** to analyze the **Air Quality Index (AQI)** across India. The study focused on identifying spatial and temporal pollution patterns, assessing pollutant contributions, and applying statistical and machine learning techniques for AQI prediction.  
 
 ---
 
